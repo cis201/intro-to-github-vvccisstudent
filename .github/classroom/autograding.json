@@ -5,7 +5,7 @@
       "setup": "make main",
       "run": "./main",
       "input": "",
-      "output": "Hello World!",
+      "output": "Hello World!\r\n",
       "comparison": "exact",
       "timeout": 10,
       "points": 100
