@@ -1,11 +1,11 @@
 {
   "tests": [
     {
-      "name": "Test 1",
-      "setup": "",
-      "run": "make test",
+      "name": "Test 1a",
+      "setup": "make main",
+      "run": "./main",
       "input": "",
-      "output": "",
+      "output": "Hello World!",
       "comparison": "exact",
       "timeout": 10,
       "points": 100
